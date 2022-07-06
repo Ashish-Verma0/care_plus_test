@@ -1,0 +1,9 @@
+export const GET_ADMIN = "/api/v1/admin/get/admin";
+export const DELETE = "/api/v1/admin/delete/admin";
+export const CREATE = "/api/v1/admin/create/admin";
+export const GETDOCTORLISTBYLIMIT = "/api/v1/admin/get/doctor";
+export const BLOCKDOCTOR = "/api/v1/admin/block/doctor";
+export const UNAPPROVEDDOCTOR = "/api/v1/admin/get/unapproved/doctor";
+export const GETCLINICLISTBYLIMIT = "/api/v1/admin/get/clinic";
+export const BLOCKCLINIC = "/api/v1/admin/block/clinic";
+export const UNBLOCKCLINIC = "/api/v1/admin/unblock/clinic";
