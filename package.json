@@ -45,7 +45,7 @@
     "eject": "react-scripts eject"
   },
    
-  "proxy": "https://nector-api.herokuapp.com/",
+  "proxy": "https://care-plus.herokuapp.com/",
   "eslintConfig": {
     "extends": [
       "react-app",
