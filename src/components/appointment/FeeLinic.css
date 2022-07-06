@@ -1,0 +1,8 @@
+.main{
+    display:contents
+   /* flex-direction: row !important; */
+}
+.main-card{
+    width: 400px;
+    margin: 5px;
+}

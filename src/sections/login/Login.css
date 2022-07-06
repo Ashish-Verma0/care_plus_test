@@ -1,0 +1,8 @@
+@media screen and (max-width: 900px) and (min-width:250px) {
+ .otpAlign{
+    width: 100% !important;
+ }
+ .loginAlign{
+    width: 100% !important;
+ }
+  }
